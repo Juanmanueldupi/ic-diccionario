@@ -1,6 +1,6 @@
 # Prueba
 
-Hola, esto es una prueba nueva
+Hola, esto es una prueba de funcionamiento
 
 Ejemplo de integración continúa para
 
