@@ -26,7 +26,7 @@ pipeline {
     }
     post {
          always {
-          mail to: 'juanmadupi@gmail.com',
+          mail to: 'amazonduranbustamante@gmail.com',
           subject: "Estado del pipeline corrector ortografico: ${currentBuild.fullDisplayName}",
           body: "${env.BUILD_URL} has result ${currentBuild.result}"
         }
